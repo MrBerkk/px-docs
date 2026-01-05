@@ -34,7 +34,7 @@ Add the following line to your `server.cfg`
 ensure px-crafting
 ```
 
-#### ⚙️ Configuration
+### ⚙️ Configuration
 
 All system behaviors are managed through the config.lua file.
 
