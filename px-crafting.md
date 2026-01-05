@@ -1,6 +1,6 @@
 ---
 description: >-
-    PX Crafting, FiveM için gerçek zamanlı 3D öğe önizlemeleri, entegre bir ilerleme sistemi ve akıllı bir arka plan üretim kuyruğu içeren, React tabanlı üst düzey bir üretim sistemidir.
+    PX Crafting is a premium, React-based crafting system for FiveM, featuring real-time 3D item previews, an integrated progression system, and an intelligent background production queue.
 ---
 
 # 🛠️ PX Crafting
