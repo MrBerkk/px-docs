@@ -14,6 +14,10 @@ Thanks For Purchasing! If you need any help, join our [Discord Support Server](h
 | Locale      | `"en"`, `"tr"`                       | Default language support.  |
 | Interaction | `"target"`, `"textui"` | How players open the shop. |
 
+### 📋 Requirements
+
+Database: `oxmysql`
+
 ### 📦 Installation
 
 #### Step 1: Download & Extract
