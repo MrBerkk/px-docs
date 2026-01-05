@@ -12,7 +12,7 @@ Thanks For Purchasing! If you need any help, join our [Discord Support Server](h
 | ----------- | ------------------------------------ | -------------------------- |
 | Framework   | `"qb"`, `"esx"`, `"qbx"`             | Supported frameworks.      |
 | Locale      | `"en"`, `"tr"`                       | Default language support.  |
-| Interaction | `"target"`, `"textui"`, `"drawtext"` | How players open the shop. |
+| Interaction | `"target"`, `"textui"` | How players open the shop. |
 
 ### 📦 Installation
 
