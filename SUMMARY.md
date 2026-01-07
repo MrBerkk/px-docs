@@ -1,7 +1,7 @@
 # Table of contents
 
 ### TEBEX
-* [🛒 Tebex](https://pixelsoft.tebex.io/)
+* <a href="https://pixelsoft.tebex.io/" target="_blank">🛒 Tebex</a>
 
 ### GENERAL
 * [🚀 Welcome to PixelSoft Docs](README.md)
@@ -14,4 +14,4 @@
 ### [FREE SCRIPTS]
 
 ### SUPPORT
-* [📞 Discord](https://discord.gg/AVvkrvrUsW)
+* <a href="https://discord.gg/AVvkrvrUsW" target="_blank">📞 Discord</a>
