@@ -12,6 +12,7 @@
 * [🚗 PX Crafting](px-crafting.md)
 
 ### [FREE SCRIPTS]
+*[🔃​ PX Loading](px-loading.md)
 
 ### SUPPORT
 * <a href="https://discord.gg/AVvkrvrUsW" target="_blank">📞 Discord</a>
