@@ -17,7 +17,7 @@ Recommendation: Rename the downloaded folder to `px-loading`
 Add the following line to your `server.cfg`
 
 ```
-ensure px-vehicleshop
+ensure px-loading
 ```
 
 ### :sos:Need Help ?&#x20;
