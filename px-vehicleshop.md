@@ -48,14 +48,14 @@ Open `config.lua` to adjust the settings. Key variables include:
 
 If you use custom fuel or key systems, update these functions in `config.lua`
 
-```
+```lua
 Config.GiveKeys = function(vehicle, plate)
     -- Example for custom key scripts
     TriggerEvent('vehiclekeys:client:SetOwner', plate) 
 end
 ```
 
-```
+```lua
 Config.SetFuel = function(vehicle, fuel)
     -- Example for LegacyFuel or ox_fuel
     exports['LegacyFuel']:SetFuel(vehicle, fuel)

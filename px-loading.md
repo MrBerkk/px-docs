@@ -21,7 +21,7 @@ ensure px-loading
 ```
 
 ### Config
-```
+```js
 window.Config = {
     // [GENERAL SETTINGS]
     ServerName: "PIXEL",

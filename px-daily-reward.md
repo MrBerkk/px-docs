@@ -47,7 +47,7 @@ Open `config.lua` to adjust the settings. Key variables include:
 
 ### 📝 Reward Examples
 
-```
+```lua
 [1] = {
     type = 'money',
     amount = 5000,
