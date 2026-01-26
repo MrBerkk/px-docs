@@ -10,9 +10,10 @@
 * [🎁 PX Daily Reward](px-daily-reward.md)
 * [🚗 PX VehicleShop](px-vehicleshop.md)
 * [🚗 PX Crafting](px-crafting.md)
+* [🔃​ PX Loading](px-loading.md)
 
 ### [FREE SCRIPTS]
-* [🔃​ PX Loading](px-loading.md)
+* [🔃​ PX Loading](px-loading-free.md)
 
 ### SUPPORT
 * <a href="https://discord.gg/AVvkrvrUsW" target="_blank">📞 Discord</a>
